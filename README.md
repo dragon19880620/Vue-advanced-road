@@ -1,11 +1,11 @@
 # 开发基本步骤
 ## 1	安装node.js
-安装node.js之前，先进行nvm的安装；
+**安装node.js之前，先进行nvm的安装
 https://github.com/coreybutler/nvm-windows/releases最好选择稳定版本
-具体安装步骤：
-1． 
+具体安装步骤：**
+### 1． 
 选择第二种安装方式是自动安装，不需要多余的各种配置；直接下一步就可以完成安装；
-2. 安装完nvm之后
+### 2. 安装完nvm之后
 列出nvm的基本操作指令
 nvm install ## 安装指定版本，可模糊安装，如：安装v6.2.0，既可nvm install v6.2.0，又可nvm install 6.2
 nvm uninstall ## 删除已安装的指定版本，语法与install类似
