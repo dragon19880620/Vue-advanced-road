@@ -17,8 +17,7 @@
 + nvm unalias ## 删除已定义的别名
 + nvm reinstall-packages ## 在当前版本node环境下，重新全局安装指定版本号的npm包
 + 安装需要的node版本，此时需要注意的是安装的下载地址，国内服务器可能会比较慢，甚至可能直接下载安装失败；
-+ 推荐设置淘宝镜像：
-	>https://npm.taobao.org/
++ 推荐设置淘宝镜像：https://npm.taobao.org/
 	>npm install -g cnpm --registry=https://registry.npm.taobao.org
 + Node-v也可以查看当前node版本
 ## 2	webpack的安装
