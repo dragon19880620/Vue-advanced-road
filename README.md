@@ -20,9 +20,7 @@
 + 推荐设置淘宝镜像：
 	>https://npm.taobao.org/
 	>npm install -g cnpm --registry=https://registry.npm.taobao.org
-____
-____
-	>Node-v也可以查看当前node版本
++ Node-v也可以查看当前node版本
 ## 2	webpack的安装
 **使用npm安装webpack：**
 + 全局安装：
