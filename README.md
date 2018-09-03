@@ -21,7 +21,7 @@ nvm reinstall-packages ## 在当前版本node环境下，重新全局安装指�
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 完成后输入npm -v可以查看npm版本
 Node-v也可以查看当前node版本
-2	webpack的安装
+## 2	webpack的安装
 	使用npm安装webpack：
 全局安装：npm install webpack -g
 当前项目安装：npm install webpack --save-dev
@@ -30,7 +30,7 @@ Node-v也可以查看当前node版本
 在新项目本地运行的时候
 首先：npm isntall 
 然后：npm init 初始化
-3	Vue安装以及项目初始化
+## 3	Vue安装以及项目初始化
 推荐直接安装vue脚手架
 安装：npm install -g vue-cli
 使用vue创建一个新的项目：
