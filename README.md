@@ -1,9 +1,8 @@
 # 开发基本步骤
 ## 1	安装node.js
-**安装node.js之前，先进行nvm的安装**
-	https://github.com/coreybutler/nvm-windows/releases 
-	最好选择稳定版本
-------
++ 安装node.js之前，先进行nvm的安装
+	>https://github.com/coreybutler/nvm-windows/releases 
++ 最好选择稳定版本
 **具体安装步骤：**
 ### 1． 
 选择第二种安装方式是自动安装，不需要多余的各种配置；直接下一步就可以完成安装；
@@ -22,8 +21,8 @@
 + 推荐设置淘宝镜像：
 	>https://npm.taobao.org/
 	>npm install -g cnpm --registry=https://registry.npm.taobao.org
-**完成后输入npm -v可以查看npm版本**
-**Node-v也可以查看当前node版本**
+	>完成后输入npm -v可以查看npm版本
+	>Node-v也可以查看当前node版本
 ## 2	webpack的安装
 **使用npm安装webpack：**
 + 全局安装：
