@@ -1,4 +1,4 @@
-# 开发基本步骤
+# node+webpack+vue快速开发
 ## 1	安装node.js
 + 安装node.js之前，先进行nvm的安装
 	>https://github.com/coreybutler/nvm-windows/releases 
